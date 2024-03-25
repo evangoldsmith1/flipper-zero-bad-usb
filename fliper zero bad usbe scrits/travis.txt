@@ -1,4 +1,4 @@
 GUI r
 DELAY 400
-STRING powershell.exe -nop -win hidden -c "Add-Type -AssemblyName System.speech; $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer; $synth.Speak('hello i am travis your pusanel  ai how may i help you to day master evan')"
+STRING powershell.exe -nop -win hidden -c "Add-Type -AssemblyName System.speech; $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer; $synth.Speak('hello i am travis your pusanel  ai how may i help you to day master')"
 ENTER
